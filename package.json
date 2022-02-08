@@ -1,0 +1,23 @@
+{
+  "name": "learyournode_jerry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C110181116/LearYourNode_Jerry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C110181116/LearYourNode_Jerry/issues"
+  },
+  "homepage": "https://github.com/C110181116/LearYourNode_Jerry#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
