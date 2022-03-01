@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/C110181116/LearYourNode_Jerry#readme",
   "dependencies": {
+    "bl": "^5.0.0",
     "colors": "^1.4.0"
   }
 }
